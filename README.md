@@ -40,7 +40,7 @@ DISCORD_CLIENT_TOKEN=your_discord_bot_token
 ```
 
 4. Download and set up Lavalink:
-   - The repository includes `Lavalink.jar` (https://github.com/lavalink-devs/Lavalink/releases/tag/4.0.8) and `application.yml`
+   - The repository includes <a href="https://github.com/lavalink-devs/Lavalink/releases/tag/4.0.8">Lavalink.jar</a> and `application.yml`
    - Make sure Java 11 or higher is installed
    - The Lavalink server will run on port 4400
 
